@@ -285,7 +285,7 @@ client.on("message", message => {
         color: 0x06DF00,
         description: "تم مسح الرسائل بنجاح",
         footer: {
-          text: "Plus Bot"
+          text: "MasterBot"
         }
       }}).then(msg => {msg.delete(3000)});
                           }
@@ -303,7 +303,7 @@ client.on("message", message => {
         color: 0x06DF00,
         description: "تم مسح الرسائل بنجاح",
         footer: {
-          text: "Plus Bot"
+          text: "MasterBot"
         }
       }}).then(msg => {msg.delete(100000)});
                           }
